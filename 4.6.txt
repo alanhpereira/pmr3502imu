@@ -1,0 +1,4 @@
+2.
+Quando o robô passa de 180 graus, o robo contiua contando na direção que estava, apresentando comportamento silimar ao da integração do giroscopio
+4.
+Quando o robô é movimentado rapidamente, há um atraso para o filtro alcançar a posição real do robô

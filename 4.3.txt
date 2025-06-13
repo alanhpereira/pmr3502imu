@@ -1,0 +1,14 @@
+1.
+F = 22857.7395874902
+H = 17322.464352728617
+X = 16065.16154203567 
+Y = -6479.070603092062
+Z = -14913.366078721565
+I = -40.72602763528547
+D = -21.96419264285705
+2.
+A intensidade é menor do que a média
+3.
+O desvio de é 21 graus para o oeste
+4.
+A inclinação é de 40 graus para cima
